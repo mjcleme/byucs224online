@@ -28,6 +28,7 @@
           "type": "instruction",
           "path": "instruction/syllabus/syllabus.md",
           "id": "30558833-6913-42ef-b0a1-1501775ce4ff",
+          "state": "published",
           "description": ""
         }
       ]
@@ -40,6 +41,7 @@
           "type": "instruction",
           "path": "instruction/using-the-command-line/using-the-command-line.md",
           "id": "7680941c-da28-43a5-89fc-c1b3e9d7dbff",
+          "state": "published",
           "interactions": [
             "0043b619-7647-4cf7-b7e7-d93001f7dd80"
           ],
@@ -55,6 +57,7 @@
           "type": "instruction",
           "path": "instruction/introduction-to-c/introduction-to-c.md",
           "id": "46fa672f-9106-48a1-8895-148bbf6f158e",
+          "state": "published",
           "description": ""
         },
         {
@@ -62,6 +65,7 @@
           "type": "instruction",
           "path": "instruction/a-few-c-exercises/a-few-c-exercises.md",
           "id": "4e94d2e8-3da0-41cb-9ba7-164dfb37e9a9",
+          "state": "published",
           "description": ""
         },
         {
@@ -69,13 +73,22 @@
           "type": "instruction",
           "path": "instruction/memory-management/memory-management.md",
           "id": "c4f6a84d-5fc2-48e3-b033-64ad0f0861f8",
+          "state": "published",
           "description": ""
         }
       ]
     },
     {
       "title": "Unit 3 - myxxd",
-      "topics": []
+      "topics": [
+        {
+          "title": "xxd",
+          "type": "instruction",
+          "path": "instruction/xxd/xxd.md",
+          "id": "57e41771-179b-4e8a-bd3d-e304a4f450b6",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 4 - Types, Memory & Typecasting",
