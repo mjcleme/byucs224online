@@ -178,7 +178,15 @@
     },
     {
       "title": "Unit 8 - Y86-64 Assembly",
-      "topics": []
+      "topics": [
+        {
+          "title": "Introduction to Assembly: Y86-64 (Essentials)",
+          "type": "instruction",
+          "path": "instruction/introduction-to-assembly-y86-64-essentials/introduction-to-assembly-y86-64-essentials.md",
+          "id": "60c27a73-47ae-495d-a945-52544504eff9",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 9 -Y86-64 Sequential Architecture",
