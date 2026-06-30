@@ -33,18 +33,6 @@
       ]
     },
     {
-      "title": "Memory Model",
-      "topics": [
-        {
-          "title": "C Exercises",
-          "type": "instruction",
-          "path": "instruction/c-exercises/c-exercises.md",
-          "id": "fdb4fb19-ec8d-47a7-9b3e-c09cefc628ec",
-          "description": ""
-        }
-      ]
-    },
-    {
       "title": "The Command Line",
       "topics": []
     }
