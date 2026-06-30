@@ -40,6 +40,9 @@
           "type": "instruction",
           "path": "instruction/using-the-command-line/using-the-command-line.md",
           "id": "7680941c-da28-43a5-89fc-c1b3e9d7dbff",
+          "interactions": [
+            "0043b619-7647-4cf7-b7e7-d93001f7dd80"
+          ],
           "description": ""
         }
       ]
