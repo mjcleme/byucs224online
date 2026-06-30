@@ -45,14 +45,14 @@ The relationship between these commands and the file system can be visualized as
 
 ```mermaid
 graph TD
-    Root[/] --> Home[home]
+    Root["/"] --> Home[home]
     Home --> User[username]
     User --> Docs[Documents]
     User --> Projects[Projects]
     Projects --> WebApp[web-app]
     Projects --> Data[data]
 
-    classDef default fill:#ffffff,stroke:#000000,color:#000000,stroke-width:1px;
+    classDef default fill:#ffffff,stroke:#000000,color:#000000,strokeWidth:1px;
 ```
 
 Beyond basic navigation, you will frequently use commands to move, copy, or delete files. It is important to exercise caution with the `rm` (remove) command, as there is no "Trash" or "Recycle Bin" in the standard command line—once a file is deleted, it is usually gone forever.
@@ -70,4 +70,3 @@ You have been working in several nested folders and have lost track of your curr
 - [x] pwd
 - [ ] dir --show-path
 ```
-![alt text](https://images.unsplash.com/photo-1767597186218-813e8e6c44d6?q=80&w=400)![ai-picture-of-a-computer-with-a-command-line-prompt.jpg](ai-picture-of-a-computer-with-a-command-line-prompt.jpg)
