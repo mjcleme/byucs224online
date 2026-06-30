@@ -1,4 +1,5 @@
-# Introduction to Memory and C
+
+![ai-malloc-and-pointers-in-the-c-language.jpg](ai-malloc-and-pointers-in-the-c-language.jpg)# Introduction to Memory and C
 
 ## Learning Objectives
 
