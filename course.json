@@ -1,0 +1,17 @@
+{
+  "schedule": "schedule/schedule.md",
+  "syllabus": "instruction/syllabus/syllabus.md",
+  "modules": [
+    {
+      "id": "2481ede4-8d7c-486e-96db-65babdc14701",
+      "title": "Course info",
+      "topics": [
+        {
+          "id": "2481ede4-8d7c-486e-96db-65babdc14701",
+          "title": "Home",
+          "path": "README.md"
+        }
+      ]
+    }
+  ]
+}
