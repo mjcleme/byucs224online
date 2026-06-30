@@ -2,7 +2,7 @@
   "title": "Machine Organization",
   "links": {},
   "schedule": {
-    "id": "04318b75-afca-46ab-a763-9c453ad96af4",
+    "id": "84bd6e4c-55fb-46cd-9b99-da721caecb84",
     "files": []
   },
   "modules": [
@@ -23,6 +23,10 @@
           "description": ""
         }
       ]
+    },
+    {
+      "title": "Introduction to C",
+      "topics": []
     }
   ]
 }
