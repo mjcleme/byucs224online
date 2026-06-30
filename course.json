@@ -34,7 +34,15 @@
     },
     {
       "title": "Unit 1 - The Command Line",
-      "topics": []
+      "topics": [
+        {
+          "title": "Using the Command Line",
+          "type": "instruction",
+          "path": "instruction/using-the-command-line/using-the-command-line.md",
+          "id": "7680941c-da28-43a5-89fc-c1b3e9d7dbff",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 2 -The Basics of C",
