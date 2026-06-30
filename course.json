@@ -105,6 +105,9 @@
           "type": "instruction",
           "path": "instruction/types/types.md",
           "id": "dda02d2a-a392-4d20-8250-bf3d91b6b04d",
+          "interactions": [
+            "8ce37526-789e-4a69-91bf-848d92501b1a"
+          ],
           "description": ""
         }
       ]
