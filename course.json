@@ -41,6 +41,13 @@
           "path": "instruction/learning-objectives/learning-objectives.md",
           "id": "716bb52e-e283-463b-a0ab-89ce678104de",
           "description": ""
+        },
+        {
+          "title": "## Background: Why C?",
+          "type": "instruction",
+          "path": "instruction/-background-why-c/-background-why-c.md",
+          "id": "bb4f65ae-c4b0-484b-af80-a9a122c94130",
+          "description": ""
         }
       ]
     }
