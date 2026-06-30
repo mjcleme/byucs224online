@@ -82,6 +82,13 @@
       "title": "Unit 3 - myxxd",
       "topics": [
         {
+          "title": "Circuits",
+          "type": "instruction",
+          "path": "instruction/circuits/circuits.md",
+          "id": "59c516e3-d62a-4d1a-a7e9-0503a8043459",
+          "description": ""
+        },
+        {
           "title": "Binary and Hexadecimal",
           "type": "instruction",
           "path": "instruction/binary-and-hexadecimal/binary-and-hexadecimal.md",
@@ -93,13 +100,6 @@
           "type": "instruction",
           "path": "instruction/xxd/xxd.md",
           "id": "57e41771-179b-4e8a-bd3d-e304a4f450b6",
-          "description": ""
-        },
-        {
-          "title": "Circuits",
-          "type": "instruction",
-          "path": "instruction/circuits/circuits.md",
-          "id": "59c516e3-d62a-4d1a-a7e9-0503a8043459",
           "description": ""
         }
       ]
