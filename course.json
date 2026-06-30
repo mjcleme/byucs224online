@@ -109,6 +109,13 @@
             "8ce37526-789e-4a69-91bf-848d92501b1a"
           ],
           "description": ""
+        },
+        {
+          "title": "Signed Integers",
+          "type": "instruction",
+          "path": "instruction/signed-integers/signed-integers.md",
+          "id": "3f1b9c61-ee32-458d-9c20-a16346202c2e",
+          "description": ""
         }
       ]
     },
