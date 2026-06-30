@@ -121,7 +121,15 @@
     },
     {
       "title": "Unit 5 - BMP Filter",
-      "topics": []
+      "topics": [
+        {
+          "title": "Bit Operations",
+          "type": "instruction",
+          "path": "instruction/bit-operations/bit-operations.md",
+          "id": "2bfe3599-b033-46e5-b0ba-2d31b8176882",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 6 - Signed/Unsigned Binary",
