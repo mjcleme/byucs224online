@@ -161,13 +161,6 @@
       "title": "Unit 7 - Midterm 1 Prep",
       "topics": [
         {
-          "title": "Circuits",
-          "type": "instruction",
-          "path": "instruction/circuits/circuits.md",
-          "id": "59c516e3-d62a-4d1a-a7e9-0503a8043459",
-          "description": ""
-        },
-        {
           "title": "Midterm Review",
           "type": "instruction",
           "path": "instruction/midterm-review/midterm-review.md",
@@ -179,6 +172,13 @@
     {
       "title": "Unit 8 - Y86-64 Assembly",
       "topics": [
+        {
+          "title": "Circuits",
+          "type": "instruction",
+          "path": "instruction/circuits/circuits.md",
+          "id": "59c516e3-d62a-4d1a-a7e9-0503a8043459",
+          "description": ""
+        },
         {
           "title": "Introduction to Assembly: Y86-64 (Essentials)",
           "type": "instruction",
