@@ -34,7 +34,15 @@
     },
     {
       "title": "Introduction to C",
-      "topics": []
+      "topics": [
+        {
+          "title": "Learning Objectives",
+          "type": "instruction",
+          "path": "instruction/learning-objectives/learning-objectives.md",
+          "id": "716bb52e-e283-463b-a0ab-89ce678104de",
+          "description": ""
+        }
+      ]
     }
   ]
 }
