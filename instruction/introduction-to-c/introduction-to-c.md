@@ -1,3 +1,4 @@
+![ai-the-c-programming-language-with-a-comparison-to.jpg](ai-the-c-programming-language-with-a-comparison-to.jpg)
 # Introduction to C
 
 ## Learning Objectives
