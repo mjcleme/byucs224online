@@ -94,6 +94,13 @@
           "path": "instruction/myxxd/myxxd.md",
           "id": "2d8703df-30fc-479e-86ba-2ed7b65a81a0",
           "description": ""
+        },
+        {
+          "title": "Binary and Hexadecimal",
+          "type": "instruction",
+          "path": "instruction/binary-and-hexadecimal/binary-and-hexadecimal.md",
+          "id": "2c836108-6103-479a-8e4f-3b9242c42527",
+          "description": ""
         }
       ]
     },
