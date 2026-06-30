@@ -159,7 +159,15 @@
     },
     {
       "title": "Unit 7 - Midterm 1 Prep",
-      "topics": []
+      "topics": [
+        {
+          "title": "Midterm Review",
+          "type": "instruction",
+          "path": "instruction/midterm-review/midterm-review.md",
+          "id": "6704947b-fa30-413a-b899-dcd043062239",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 8 - Y86-64 Assembly",
