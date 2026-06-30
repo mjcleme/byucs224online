@@ -63,6 +63,13 @@
           "path": "instruction/a-few-c-exercises/a-few-c-exercises.md",
           "id": "4e94d2e8-3da0-41cb-9ba7-164dfb37e9a9",
           "description": ""
+        },
+        {
+          "title": "Memory Management",
+          "type": "instruction",
+          "path": "instruction/memory-management/memory-management.md",
+          "id": "c4f6a84d-5fc2-48e3-b033-64ad0f0861f8",
+          "description": ""
         }
       ]
     },
