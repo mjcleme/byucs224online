@@ -49,7 +49,15 @@
     },
     {
       "title": "Unit 2 -The Basics of C",
-      "topics": []
+      "topics": [
+        {
+          "title": "Introduction to C",
+          "type": "instruction",
+          "path": "instruction/introduction-to-c/introduction-to-c.md",
+          "id": "46fa672f-9106-48a1-8895-148bbf6f158e",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 3 - myxxd",
