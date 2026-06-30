@@ -1,5 +1,5 @@
 
-# ## Background: Why C?
+# Background: Why C?
 
 - C came after the language **B** (and its predecessor **BCPL**), which influenced it.
 - C has been called *"quirky, flawed, and an enormous success."*
