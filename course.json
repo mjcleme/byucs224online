@@ -99,7 +99,15 @@
     },
     {
       "title": "Unit 4 - Types, Memory & Typecasting",
-      "topics": []
+      "topics": [
+        {
+          "title": "Types",
+          "type": "instruction",
+          "path": "instruction/types/types.md",
+          "id": "dda02d2a-a392-4d20-8250-bf3d91b6b04d",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 5 - BMP Filter",
