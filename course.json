@@ -128,6 +128,13 @@
           "path": "instruction/bit-operations/bit-operations.md",
           "id": "2bfe3599-b033-46e5-b0ba-2d31b8176882",
           "description": ""
+        },
+        {
+          "title": "BMP Filter",
+          "type": "instruction",
+          "path": "instruction/bmp-filter/bmp-filter.md",
+          "id": "1ae62c02-fb6f-433e-8112-91c7621ed08d",
+          "description": ""
         }
       ]
     },
