@@ -2,8 +2,16 @@
   "title": "Machine Organization",
   "links": {},
   "schedule": {
-    "id": "84bd6e4c-55fb-46cd-9b99-da721caecb84",
-    "files": []
+    "id": "0521b08d-f63a-4d9e-8f01-06fa34956335",
+    "files": [
+      {
+        "id": "d0a46f1c-777a-45c7-98cc-ae9bb809e163",
+        "title": "Schedule",
+        "path": "schedule/schedule.md",
+        "default": true,
+        "state": "published"
+      }
+    ]
   },
   "modules": [
     {
