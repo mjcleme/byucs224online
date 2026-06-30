@@ -1,15 +1,26 @@
 {
-  "schedule": "schedule/schedule.md",
-  "syllabus": "instruction/syllabus/syllabus.md",
+  "title": "Machine Organization",
+  "links": {},
+  "schedule": {
+    "id": "04318b75-afca-46ab-a763-9c453ad96af4",
+    "files": []
+  },
   "modules": [
     {
-      "id": "2481ede4-8d7c-486e-96db-65babdc14701",
       "title": "Course info",
       "topics": [
         {
-          "id": "06287a02-f15e-438b-9874-76a9964099ba",
           "title": "Home",
-          "path": "README.md"
+          "path": "README.md",
+          "id": "06287a02-f15e-438b-9874-76a9964099ba",
+          "state": "published"
+        },
+        {
+          "title": "Syllabus",
+          "type": "instruction",
+          "path": "instruction/syllabus/syllabus.md",
+          "id": "30558833-6913-42ef-b0a1-1501775ce4ff",
+          "description": ""
         }
       ]
     }
