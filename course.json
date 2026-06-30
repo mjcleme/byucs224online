@@ -43,10 +43,10 @@
           "description": ""
         },
         {
-          "title": "Background: Why C?",
+          "title": "C Syntax",
           "type": "instruction",
-          "path": "instruction/-background-why-c/-background-why-c.md",
-          "id": "bb4f65ae-c4b0-484b-af80-a9a122c94130",
+          "path": "instruction/c-in-relation-to-c/c-in-relation-to-c.md",
+          "id": "dba6f86b-2a5f-4543-91d5-34d2b7f952f9",
           "description": ""
         }
       ]
