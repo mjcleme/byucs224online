@@ -63,6 +63,10 @@
     {
       "title": "Y86-64 Assembly",
       "topics": []
+    },
+    {
+      "title": "Y86-64 Sequential Architecture",
+      "topics": []
     }
   ]
 }
