@@ -60,7 +60,15 @@
     },
     {
       "title": "Memory Model",
-      "topics": []
+      "topics": [
+        {
+          "title": "Introduction to Memory and C",
+          "type": "instruction",
+          "path": "instruction/introduction-to-memory-and-c/introduction-to-memory-and-c.md",
+          "id": "a5e0033d-4994-4536-97a9-93cb34c2e3bf",
+          "description": ""
+        }
+      ]
     }
   ]
 }
