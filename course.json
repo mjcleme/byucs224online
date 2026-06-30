@@ -87,6 +87,13 @@
           "path": "instruction/xxd/xxd.md",
           "id": "57e41771-179b-4e8a-bd3d-e304a4f450b6",
           "description": ""
+        },
+        {
+          "title": "myxxd",
+          "type": "instruction",
+          "path": "instruction/myxxd/myxxd.md",
+          "id": "2d8703df-30fc-479e-86ba-2ed7b65a81a0",
+          "description": ""
         }
       ]
     },
