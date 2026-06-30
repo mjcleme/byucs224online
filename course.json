@@ -56,6 +56,13 @@
           "path": "instruction/introduction-to-c/introduction-to-c.md",
           "id": "46fa672f-9106-48a1-8895-148bbf6f158e",
           "description": ""
+        },
+        {
+          "title": "A Few C Exercises",
+          "type": "instruction",
+          "path": "instruction/a-few-c-exercises/a-few-c-exercises.md",
+          "id": "4e94d2e8-3da0-41cb-9ba7-164dfb37e9a9",
+          "description": ""
         }
       ]
     },
