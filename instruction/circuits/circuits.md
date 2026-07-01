@@ -1,3 +1,4 @@
+![ai-illustrations-of-not-and-or-and-xor.jpg](ai-illustrations-of-not-and-or-and-xor.jpg)
 # Instructions & Electricity (Circuits)
 
 
