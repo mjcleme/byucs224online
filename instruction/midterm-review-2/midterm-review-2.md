@@ -49,3 +49,20 @@ In the Y86-64 instruction set architecture, how does the `rrmovq rA, rB` instruc
 - [ ] It transfers a 64-bit immediate constant value provided within the instruction into register `rB`.
 - [ ] It stores the 64-bit value from register `rA` into a memory location at an address specified by the value in register `rB`.
 ```
+
+```masteryls
+{"id":"536a2cdb-b3c3-4100-95a8-801c49e1752c","title":"Assembling Y86-64 to Machine Code","type":"multiple-choice"}
+Given the following Y86-64 assembly code, what is the correct hexadecimal byte sequence representing the assembled program in memory, starting at address `0x000`?
+
+```assembly
+.pos 0
+irmovq $0x1234, %rdx
+addq %rdx, %rax
+halt
+```
+
+- [ ] `302f3412000000000000600200`
+- [ ] `30f20000000000001234602000`
+- [x] `30f23412000000000000602000`
+- [ ] `20f23412000000000000602000`
+```
