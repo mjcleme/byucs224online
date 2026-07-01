@@ -213,7 +213,15 @@
     },
     {
       "title": "Unit 10 - Midterm 2 Prep",
-      "topics": []
+      "topics": [
+        {
+          "title": "Midterm Review",
+          "type": "instruction",
+          "path": "instruction/midterm-review-2/midterm-review-2.md",
+          "id": "4ff834dd-a1ea-4e6b-9afc-d8aa9a654910",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 11 - X86-64 Assembly",
