@@ -1,3 +1,4 @@
+![ai-an-illustration-of-x86-64-instruction-decoding.jpg](ai-an-illustration-of-x86-64-instruction-decoding.jpg)
 # Y86-64 Encodings & Sequential Architecture (SEQ)
 
 ## Learning Objectives
