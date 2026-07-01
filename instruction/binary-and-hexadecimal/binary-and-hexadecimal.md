@@ -1,3 +1,5 @@
+
+![ai-create-a-picture-of-hexadecimal-and-decimal-bina.jpg](ai-create-a-picture-of-hexadecimal-and-decimal-bina.jpg)
 # Binary & Hexadecimal
 
 ## Learning Objectives
