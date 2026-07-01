@@ -166,6 +166,13 @@
           "path": "instruction/midterm-review/midterm-review.md",
           "id": "6704947b-fa30-413a-b899-dcd043062239",
           "state": "published",
+          "interactions": [
+            "83a94350-caa6-4fde-94b0-d91d963f1675",
+            "d9379f5b-bba0-4721-88ea-f7ddead74b94",
+            "b1473294-9419-496c-9a6b-f4e20d9fc973",
+            "a39ac460-9e3e-425c-9046-ea98b51c0526",
+            "05da5da2-0a2d-45f8-a393-973dac6a8cb6"
+          ],
           "description": ""
         }
       ]
