@@ -86,6 +86,7 @@
           "type": "instruction",
           "path": "instruction/binary-and-hexadecimal/binary-and-hexadecimal.md",
           "id": "2c836108-6103-479a-8e4f-3b9242c42527",
+          "state": "published",
           "description": ""
         },
         {
@@ -93,6 +94,7 @@
           "type": "instruction",
           "path": "instruction/xxd/xxd.md",
           "id": "57e41771-179b-4e8a-bd3d-e304a4f450b6",
+          "state": "published",
           "description": ""
         }
       ]
@@ -105,6 +107,7 @@
           "type": "instruction",
           "path": "instruction/types/types.md",
           "id": "dda02d2a-a392-4d20-8250-bf3d91b6b04d",
+          "state": "published",
           "interactions": [
             "8ce37526-789e-4a69-91bf-848d92501b1a"
           ],
@@ -115,6 +118,7 @@
           "type": "instruction",
           "path": "instruction/signed-integers/signed-integers.md",
           "id": "3f1b9c61-ee32-458d-9c20-a16346202c2e",
+          "state": "published",
           "description": ""
         }
       ]
@@ -127,6 +131,7 @@
           "type": "instruction",
           "path": "instruction/bit-operations/bit-operations.md",
           "id": "2bfe3599-b033-46e5-b0ba-2d31b8176882",
+          "state": "published",
           "description": ""
         },
         {
@@ -134,6 +139,7 @@
           "type": "instruction",
           "path": "instruction/bmp-filter/bmp-filter.md",
           "id": "1ae62c02-fb6f-433e-8112-91c7621ed08d",
+          "state": "published",
           "description": ""
         }
       ]
@@ -142,17 +148,11 @@
       "title": "Unit 6 - Signed/Unsigned Binary",
       "topics": [
         {
-          "title": "Signed Integers",
-          "type": "instruction",
-          "path": "instruction/signed-integers-2/signed-integers-2.md",
-          "id": "3b687f52-f767-4e35-aebb-6fa8b1b93900",
-          "description": ""
-        },
-        {
           "title": "Floating Point Numbers",
           "type": "instruction",
           "path": "instruction/floating-point-numbers/floating-point-numbers.md",
           "id": "6c802abc-0cf0-4cd9-979e-43468aef92ac",
+          "state": "published",
           "description": ""
         }
       ]
@@ -165,6 +165,7 @@
           "type": "instruction",
           "path": "instruction/midterm-review/midterm-review.md",
           "id": "6704947b-fa30-413a-b899-dcd043062239",
+          "state": "published",
           "description": ""
         }
       ]
@@ -177,6 +178,7 @@
           "type": "instruction",
           "path": "instruction/circuits/circuits.md",
           "id": "59c516e3-d62a-4d1a-a7e9-0503a8043459",
+          "state": "published",
           "description": ""
         },
         {
@@ -184,6 +186,7 @@
           "type": "instruction",
           "path": "instruction/introduction-to-assembly-y86-64-essentials/introduction-to-assembly-y86-64-essentials.md",
           "id": "60c27a73-47ae-495d-a945-52544504eff9",
+          "state": "published",
           "description": ""
         }
       ]
@@ -196,6 +199,7 @@
           "type": "instruction",
           "path": "instruction/y86-64-encodings-sequential-architecture-seq/y86-64-encodings-sequential-architecture-seq.md",
           "id": "c7adc507-6cd8-408a-8f2c-20c499a181eb",
+          "state": "published",
           "description": ""
         }
       ]
