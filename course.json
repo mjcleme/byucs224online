@@ -219,6 +219,13 @@
           "type": "instruction",
           "path": "instruction/midterm-review-2/midterm-review-2.md",
           "id": "4ff834dd-a1ea-4e6b-9afc-d8aa9a654910",
+          "interactions": [
+            "d90c6fbb-7dc4-49a8-8ad8-f9de60c8fafe",
+            "680dbb1f-0f2a-43ca-bab5-0da353ff4408",
+            "fb9b1f4c-9c78-4b73-ad23-7b6103aa2ca1",
+            "f3be464d-1245-44eb-bb73-62b7e4aef856",
+            "f8624129-f99c-4bb1-b30d-7c6203bc2b35"
+          ],
           "description": ""
         }
       ]
