@@ -1,3 +1,4 @@
+![ai-a-picture-of-a-computer-showing-the-motherboard.jpg](ai-a-picture-of-a-computer-showing-the-motherboard.jpg)
 ## What This Course Is About
 
 CS 224 answers one big question: **How does a computer *really* work?**
