@@ -1,4 +1,4 @@
-![ai-create-a-picture-of-hexadecimal-and-decimal-bina.jpg](ai-create-a-picture-of-hexadecimal-and-decimal-bina.jpg)
+
 ## Mastering Hex Dumps with xxd
 In this unit you will write a program that is similar to the xxd linux command.  You ought to become familiar with this command so that you can make your job easier.
 
