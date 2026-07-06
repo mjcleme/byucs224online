@@ -98,6 +98,6 @@ Despite the prevalence of high-level programming languages like Python or C++, a
 ```
 
 ```masteryls
-{"id":"af317f30-f068-4698-a110-2346194cb0b6", "title":"pointers", "type":"essay", "gradingCriteria":"- Must use '&' and '*'" }
+{"id":"af317f30-f068-4698-a110-2346194cb0b6", "title":"pointers", "type":"essay"}
 Give an example of assigning a pointer to the second element of an array
 ```
