@@ -86,3 +86,13 @@ For those interested in seeing how different compilers translate code into assem
 ## Summary
 
 Assembly language is the bridge between the logic of the programmer and the physics of the processor. Born from the need to make machine-level programming manageable, it has survived decades of technological advancement because it offers unparalleled control and insight. Whether for performance, security, or a deeper understanding of system architecture, mastering assembly is a transformative step for any computer scientist. In the next section, we will begin looking at the specific architecture of the X86-64 CPU and its register set.
+
+```masteryls
+{"id":"cf09be10-750f-4a7b-be46-9293fec6e80e","title":"Modern Utility of Assembly","type":"multiple-choice"}
+Despite the prevalence of high-level programming languages like Python or C++, assembly language remains a vital tool in specific engineering domains. Which of the following scenarios best illustrates why a developer would choose to use assembly language in a modern context?
+
+- [ ] To ensure that the software can run on any hardware architecture without needing to be recompiled or modified for different CPUs.
+- [ ] To decrease the time required for initial prototyping and debugging by using a syntax that closely resembles natural human language.
+- [x] To achieve maximum execution speed and minimal memory footprint in performance-critical components like bootloaders, kernel modules, or hardware drivers.
+- [ ] To simplify the development of complex business logic through high-level abstractions and automated garbage collection.
+```
