@@ -101,3 +101,16 @@ Despite the prevalence of high-level programming languages like Python or C++, a
 {"id":"af317f30-f068-4698-a110-2346194cb0b6", "title":"pointers", "type":"essay"}
 Give an example of assigning a pointer to the second element of an array
 ```
+
+```masteryls
+{"id":"d8f50e1b-56d7-4fcc-ba5b-21096b1fc28a", "title":"Likert survey", "type":"likert", "showResults":"editor" }
+Please rate each statement.
+
+Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
+
+| qid | item |
+|-----|------|
+| prep | I came prepared for class. |
+| engage | I stayed engaged during activities. |
+| clarity | The lesson objectives were clear. |
+```
