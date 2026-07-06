@@ -219,6 +219,7 @@
           "type": "instruction",
           "path": "instruction/midterm-review-2/midterm-review-2.md",
           "id": "4ff834dd-a1ea-4e6b-9afc-d8aa9a654910",
+          "state": "published",
           "interactions": [
             "d90c6fbb-7dc4-49a8-8ad8-f9de60c8fafe",
             "680dbb1f-0f2a-43ca-bab5-0da353ff4408",
@@ -233,7 +234,15 @@
     },
     {
       "title": "Unit 11 - X86-64 Assembly",
-      "topics": []
+      "topics": [
+        {
+          "title": "Introduction to Assembly Language",
+          "type": "instruction",
+          "path": "instruction/introduction-to-assembly-language/introduction-to-assembly-language.md",
+          "id": "1055038a-e35c-4f54-937e-43c78fdb270f",
+          "description": "Basic history of assembly language and why assembly language is useful in the modern era"
+        }
+      ]
     },
     {
       "title": "Unit 12 - Bomb Project",
