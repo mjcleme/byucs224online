@@ -119,3 +119,9 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 {"id":"075736bc-7384-4cf8-a969-c13c0565e712", "title":"Teaching", "type":"teaching" }
 Help me understand why I should use assembly language.
 ```
+
+```masteryls
+{"id":"26b4409f-fbb9-4e3d-8ec5-ff38c1df03a8", "title":"File submission", "type":"file-submission"  }
+Submit C code that demonstrates the use of pointers
+```
+ 
