@@ -96,3 +96,8 @@ Despite the prevalence of high-level programming languages like Python or C++, a
 - [x] To achieve maximum execution speed and minimal memory footprint in performance-critical components like bootloaders, kernel modules, or hardware drivers.
 - [ ] To simplify the development of complex business logic through high-level abstractions and automated garbage collection.
 ```
+
+```masteryls
+{"id":"af317f30-f068-4698-a110-2346194cb0b6", "title":"pointers", "type":"essay", "gradingCriteria":"- Must use '&' and '*'" }
+Give an example of assigning a pointer to the second element of an array
+```
