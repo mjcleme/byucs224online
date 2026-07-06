@@ -114,3 +114,8 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 | engage | I stayed engaged during activities. |
 | clarity | The lesson objectives were clear. |
 ```
+
+```masteryls
+{"id":"075736bc-7384-4cf8-a969-c13c0565e712", "title":"Teaching", "type":"teaching" }
+Help me understand the **Socratic method**.
+```
