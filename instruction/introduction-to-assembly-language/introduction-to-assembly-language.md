@@ -117,5 +117,5 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 
 ```masteryls
 {"id":"075736bc-7384-4cf8-a969-c13c0565e712", "title":"Teaching", "type":"teaching" }
-Help me understand the **Socratic method**.
+Help me understand why I should use assembly language.
 ```
