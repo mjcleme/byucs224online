@@ -241,7 +241,8 @@
           "path": "instruction/introduction-to-assembly-language/introduction-to-assembly-language.md",
           "id": "1055038a-e35c-4f54-937e-43c78fdb270f",
           "interactions": [
-            "cf09be10-750f-4a7b-be46-9293fec6e80e"
+            "cf09be10-750f-4a7b-be46-9293fec6e80e",
+            "af317f30-f068-4698-a110-2346194cb0b6"
           ],
           "description": "Basic history of assembly language and why assembly language is useful in the modern era"
         }
