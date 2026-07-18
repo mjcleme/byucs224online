@@ -21,7 +21,10 @@
           "title": "Home",
           "path": "README.md",
           "id": "06287a02-f15e-438b-9874-76a9964099ba",
-          "state": "published"
+          "state": "published",
+          "interactions": [
+            "881335d2-9706-4b8b-bc2b-eb3c879aeacf"
+          ]
         },
         {
           "title": "Syllabus",
