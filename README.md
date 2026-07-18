@@ -127,3 +127,13 @@ This simple model (a big array of bits plus a processor that reads and changes t
 2. Where did CS 111 sit in the abstraction stack, and where does CS 224 sit?
 3. What are the two halves of the basic computer abstraction, and what does each do?
 4. Why is starting projects early specifically emphasized for this course?
+
+```masteryls
+{"id":"881335d2-9706-4b8b-bc2b-eb3c879aeacf", "title":"Multiple choice", "type":"multiple-choice", "syncGrade":false, "autoGrade":false }
+How do you make a Motherboard?
+
+- [ ] Hook up a bunch of string and duct tape
+- [x] I tell her about Machine Organization
+- [ ] Pour Mother resin into a mold
+- [ ] Put two Mother adults into a room alone and they will have a little Motherboard
+```
