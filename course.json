@@ -293,6 +293,14 @@
           "type": "instruction",
           "path": "instruction/attacking-the-stack/attacking-the-stack.md",
           "id": "818b8ba4-bdcb-4448-8bf9-d31d880252f4",
+          "interactions": [
+            "2576be4f-2e34-43b0-aacc-eba5fe18de71",
+            "82939e5d-1dec-48d7-8264-989b30fc79d9",
+            "8238d7c9-1844-4a99-8c57-53f27594ce49",
+            "fb1ca465-c094-47ec-84c0-cb3b280332d4",
+            "88bf1713-8e63-4a2e-88d7-21336e27d55a",
+            "ba692aca-0c03-4164-a5d0-bc8c121d6594"
+          ],
           "description": ""
         }
       ]
