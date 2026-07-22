@@ -249,6 +249,13 @@
             "075736bc-7384-4cf8-a969-c13c0565e712"
           ],
           "description": "Basic history of assembly language and why assembly language is useful in the modern era"
+        },
+        {
+          "title": "Nested Arrays and Structs",
+          "type": "instruction",
+          "path": "instruction/nested-arrays-and-structs/nested-arrays-and-structs.md",
+          "id": "34fcb282-ccb8-4d03-85e1-6122f63dbeff",
+          "description": ""
         }
       ]
     },
