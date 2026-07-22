@@ -246,10 +246,7 @@
           "state": "published",
           "interactions": [
             "cf09be10-750f-4a7b-be46-9293fec6e80e",
-            "af317f30-f068-4698-a110-2346194cb0b6",
-            "d8f50e1b-56d7-4fcc-ba5b-21096b1fc28a",
-            "075736bc-7384-4cf8-a969-c13c0565e712",
-            "26b4409f-fbb9-4e3d-8ec5-ff38c1df03a8"
+            "075736bc-7384-4cf8-a969-c13c0565e712"
           ],
           "description": "Basic history of assembly language and why assembly language is useful in the modern era"
         }
