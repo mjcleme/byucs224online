@@ -1,13 +1,6 @@
 
 # X86-64: Arrays, Nested Arrays & Structs
 
-*Learning material derived from `11a X86-Nested-Arrays-Structs.pptx` (textbook Chapter 3)*
-
-> **📍 Course context (Winter 2026) — Unit 11: x86-64 Assembly.**
-> **Read:** CS:APP **Chapter 3** (the book is full of examples — practice heavily).
-> **Supports:** Unit 11 Lab Prep (due **Fri Mar 20**) · Lab 11: X86-64 Assembly (due **Mon Mar 23**); essential for the Bomb and Attack projects.
-> See the [course schedule](SCHEDULE.md) and [assignment list](ASSIGNMENTS.md).
-
 ## Learning Objectives
 
 After this lesson you should be able to:
@@ -139,6 +132,11 @@ struct S2 {       // offsets:  i=0, j=4, c=8   → GAP after c
 - 2D arrays are **row-major**; `&D[i][j] = x + L·C·i + L·j`.
 - Structs lay fields out **in order** at fixed **offsets**.
 - **Alignment** (K-byte object at a multiple of K) forces **padding**; field order affects struct size.
+
+```masteryls
+{"id":"6886b2ac-2bff-4411-9d70-4a44f79b932a", "title":"Takeaways", "type":"essay", "gradingCriteria":"- Addresses the prompt directly\n- Uses at least one concrete example\n- Demonstrates accurate understanding of key concepts" }
+For "double d[10]" describe how many bytes are allocated and what the address of d[3] is
+```
 
 ## Self-Check
 
