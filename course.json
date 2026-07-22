@@ -255,6 +255,10 @@
           "type": "instruction",
           "path": "instruction/nested-arrays-and-structs/nested-arrays-and-structs.md",
           "id": "34fcb282-ccb8-4d03-85e1-6122f63dbeff",
+          "state": "published",
+          "interactions": [
+            "6886b2ac-2bff-4411-9d70-4a44f79b932a"
+          ],
           "description": ""
         }
       ]
