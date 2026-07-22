@@ -138,6 +138,11 @@ struct S2 {       // offsets:  i=0, j=4, c=8   → GAP after c
 For "double d[10]" describe how many bytes are allocated and what the address of d[3] is
 ```
 
+```masteryls
+{"id":"8604f84a-74f6-49b8-90d2-a286069da7ff", "title":"Teaching", "type":"teaching" }
+teach me how to find the address of M[i][j] in intM[4][6].
+```
+
 ## Self-Check
 
 1. For `double d[10]`, how many bytes are allocated, and what is the address of `d[3]` relative to `d`?
