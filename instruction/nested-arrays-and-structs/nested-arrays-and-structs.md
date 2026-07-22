@@ -140,13 +140,21 @@ For "double d[10]" describe how many bytes are allocated and what the address of
 
 ```masteryls
 {"id":"8604f84a-74f6-49b8-90d2-a286069da7ff", "title":"Teaching", "type":"teaching" }
-teach me how to find the address of M[i][j] in int M[4][6].
+Teach me how to find the address of M[i][j] in int M[4][6].
 ```
 
-## Self-Check
+```masteryls
+{"id":"24cab5cd-5b02-40b5-982d-120ff89c6d80","title":"Teaching","type":"teaching"}
+Teach me how `struct { char a; int b; char c; }` is layed out in memory with offsets and total size, marking any padding.
+```
 
-1. For `double d[10]`, how many bytes are allocated, and what is the address of `d[3]` relative to `d`?
-2. Give the address formula for `int M[4][6]` element `M[i][j]`.
-3. Lay out `struct { char a; int b; char c; }` with offsets and total size, marking any padding.
-4. Reorder the fields of that struct to minimize its size. What's the new size?
-5. Why does pointer arithmetic `p + 1` advance by more than one byte for `int *p`?
+```masteryls
+{"id":"61f060f7-2786-4c3a-bf04-5cbc2084e920","title":"Takeaways","type":"essay","gradingCriteria":"- Addresses the prompt directly\n- Uses at least one concrete example\n- Demonstrates accurate understanding of key concepts"}
+How could you change the order of declaring the variables to use less memory?
+```
+
+```masteryls
+{"id":"9515ec15-2af1-4d74-b246-8fa58e4cf7f6","title":"Takeaways","type":"essay","gradingCriteria":"- Addresses the prompt directly\n- Uses at least one concrete example\n- Demonstrates accurate understanding of key concepts"}
+Why does pointer arithmetic `p + 1` advance by more than one byte for `int *p`?
+```
+
