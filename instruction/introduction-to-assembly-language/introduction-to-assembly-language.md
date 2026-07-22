@@ -97,31 +97,8 @@ Despite the prevalence of high-level programming languages like Python or C++, a
 - [ ] To simplify the development of complex business logic through high-level abstractions and automated garbage collection.
 ```
 
-```masteryls
-{"id":"af317f30-f068-4698-a110-2346194cb0b6", "title":"pointers", "type":"essay"}
-Give an example of assigning a pointer to the second element of an array
-```
-
-```masteryls
-{"id":"d8f50e1b-56d7-4fcc-ba5b-21096b1fc28a", "title":"Likert survey", "type":"likert", "showResults":"editor" }
-Please rate each statement.
-
-Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
-
-| qid | item |
-|-----|------|
-| prep | I came prepared for class. |
-| engage | I stayed engaged during activities. |
-| clarity | The lesson objectives were clear. |
-```
 
 ```masteryls
 {"id":"075736bc-7384-4cf8-a969-c13c0565e712", "title":"Teaching", "type":"teaching" }
 Help me understand why I should use assembly language.
 ```
-
-```masteryls
-{"id":"26b4409f-fbb9-4e3d-8ec5-ff38c1df03a8", "title":"File submission", "type":"file-submission"  }
-Submit C code that demonstrates the use of pointers
-```
- 
