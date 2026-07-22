@@ -269,7 +269,15 @@
     },
     {
       "title": "Unit 12 - Bomb Project",
-      "topics": []
+      "topics": [
+        {
+          "title": "A Brief Introduction",
+          "type": "instruction",
+          "path": "instruction/a-brief-introduction/a-brief-introduction.md",
+          "id": "b43055b4-3a2c-4713-8d2b-da64709acf55",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 13 - Attack Project",
