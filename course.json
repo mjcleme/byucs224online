@@ -287,7 +287,15 @@
     },
     {
       "title": "Unit 13 - Attack Project",
-      "topics": []
+      "topics": [
+        {
+          "title": "Attacking the Stack",
+          "type": "instruction",
+          "path": "instruction/attacking-the-stack/attacking-the-stack.md",
+          "id": "818b8ba4-bdcb-4448-8bf9-d31d880252f4",
+          "description": ""
+        }
+      ]
     },
     {
       "title": "Unit 14 Caches and Memory",
