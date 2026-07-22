@@ -307,7 +307,15 @@
     },
     {
       "title": "Unit 14 Caches and Memory",
-      "topics": []
+      "topics": [
+        {
+          "title": "foo",
+          "type": "instruction",
+          "path": "instruction/foo/foo.md",
+          "id": "d54277bc-723f-47b7-b70b-7dc40a9c0ed9",
+          "description": ""
+        }
+      ]
     }
   ]
 }
