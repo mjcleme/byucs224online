@@ -1,6 +1,10 @@
 {
   "title": "Machine Organization",
   "links": {},
+  "externalRefs": {
+    "canvasCourseId": "38564",
+    "canvasScheduleFileId": "d0a46f1c-777a-45c7-98cc-ae9bb809e163"
+  },
   "schedule": {
     "id": "0521b08d-f63a-4d9e-8f01-06fa34956335",
     "files": [
@@ -275,6 +279,7 @@
           "type": "instruction",
           "path": "instruction/a-brief-introduction/a-brief-introduction.md",
           "id": "b43055b4-3a2c-4713-8d2b-da64709acf55",
+          "state": "published",
           "interactions": [
             "4e87e3c6-167c-4b1f-bf1c-42e5fe9412d6",
             "b32a914e-532c-4a21-be4b-1a44a0c0962f",
@@ -293,6 +298,7 @@
           "type": "instruction",
           "path": "instruction/attacking-the-stack/attacking-the-stack.md",
           "id": "818b8ba4-bdcb-4448-8bf9-d31d880252f4",
+          "state": "published",
           "interactions": [
             "2576be4f-2e34-43b0-aacc-eba5fe18de71",
             "82939e5d-1dec-48d7-8264-989b30fc79d9",
@@ -313,6 +319,7 @@
           "type": "instruction",
           "path": "instruction/foo/foo.md",
           "id": "d54277bc-723f-47b7-b70b-7dc40a9c0ed9",
+          "state": "published",
           "description": ""
         }
       ]
